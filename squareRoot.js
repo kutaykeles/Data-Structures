@@ -1,4 +1,5 @@
 //06.05.2019 Kutay Keleş
+//Köklü sayının rasyonel ifadesini bulan algoritma
 
 
 function squareRoot(s){
