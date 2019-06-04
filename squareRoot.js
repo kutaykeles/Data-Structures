@@ -27,4 +27,5 @@ console.log(x - (Math.pow(x,2)-s) / (2*x) );
     
 }
 
-squareRoot(124);
+//squareRoot(9);
+// -> 3
