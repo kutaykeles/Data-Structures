@@ -23,7 +23,7 @@ while((Math.pow(x,2)-s)<0){
     
 }
 
-console.log(x - (Math.pow(x,2)-s) / (2*x) );
+return(x - (Math.pow(x,2)-s) / (2*x));
     
 }
 
